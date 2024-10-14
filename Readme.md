@@ -31,3 +31,5 @@ Este proyecto es un **conversor de monedas** desarrollado como proyecto final de
 
    ```bash
    git clone https://github.com/tuusuario/conversor-de-monedas.git
+
+![Conversor en consola](./example.png)

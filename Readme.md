@@ -30,6 +30,6 @@ Este proyecto es un **conversor de monedas** desarrollado como proyecto final de
 1. Clona el repositorio o descarga los archivos del proyecto.
 
    ```bash
-   git clone https://github.com/tuusuario/conversor-de-monedas.git
+   git clone git@github.com:ManuelRoperoM/ConversorMonedas.git
 
 ![Conversor en consola](./example.png)
